@@ -1,2 +1,4 @@
 # Twitter-Data-Analysis
 Sentimental Analysis using Bigdata-Hadoop
+
+Sentiment Analysis is the most common text classification tool that analyses an incoming message and tells whether the underlying sentiment is positive, negative our neutral. We can perform sentimental Analysis by machine learning and by using dictionaries.This project is to perform the rudimentary sentiment analysis using Hive. Using hive, the Twitter.json file is handled using GET_JSON_OBJECT UDF mechanism. Also, by processing Dictionary.txt using hive, what were the hashtags used in the file, and how many times each hashtag was used can be identified. Further, Determination of the score for each tweet that was posted, identifying whether the tweet had a positive or negative sentiment using the dictionary.txt file is done.
