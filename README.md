@@ -1,2 +1,2 @@
 # Twitter-Data-Analysis
-Data analysis using Bigdata-Hadoop
+Sentimental Analysis using Bigdata-Hadoop
